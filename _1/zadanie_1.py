@@ -1,4 +1,5 @@
 #Задание 1
+
 def function():
   chislo=input('Введите число:')
   return chislo
